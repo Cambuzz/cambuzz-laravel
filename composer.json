@@ -16,7 +16,7 @@
         "phpunit/phpunit": "~4.0",
         "phpspec/phpspec": "~2.1",
         "way/generators": "^3.0",
-        "laracasts/generators": "^1.1"
+        "laracasts/generators": "dev-master as 1.1.4"
     },
     "autoload": {
         "classmap": [
